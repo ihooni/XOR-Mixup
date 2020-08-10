@@ -1,4 +1,4 @@
-## XOR Mixup &mdash; TensorFlow experiment codes (FL'ICML 2020)
+## XOR Mixup &mdash; TensorFlow experiment codes (FL' ICML 2020)
 ### : Privacy-Preserving Data Augmentation for One-Shot Federated Learning
 
 ### [Paper](https://arxiv.org/abs/2006.05148) | [Presentation](https://github.com/ihooni/XOR-Mixup/files/5049557/FL_ICML20_poster_session-final.pdf)
